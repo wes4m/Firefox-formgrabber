@@ -1,0 +1,16 @@
+﻿Build started 06/11/34 06:34:06 م.
+     1>Project "C:\unC0der\Sources - Projects\FormGrabber\Dll\Dll.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\unc0der\sources - projects\formgrabber\dll\source.cpp(80): warning C4309: 'initializing' : truncation of constant value
+     1>c:\unc0der\sources - projects\formgrabber\dll\source.cpp(87): warning C4309: 'initializing' : truncation of constant value
+     1>c:\unc0der\sources - projects\formgrabber\dll\source.cpp(88): warning C4309: 'initializing' : truncation of constant value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\unC0der\Sources - Projects\FormGrabber\Dll\Debug\Dll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\unC0der\Sources - Projects\FormGrabber\Dll\Debug\Dll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\unC0der\Sources - Projects\FormGrabber\Dll\Debug\Dll.lib" /MACHINE:X86 /DLL Debug\Source.obj
+         Dll.vcxproj -> C:\unC0der\Sources - Projects\FormGrabber\Dll\Debug\Dll.dll
+     1>Done Building Project "C:\unC0der\Sources - Projects\FormGrabber\Dll\Dll.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.26

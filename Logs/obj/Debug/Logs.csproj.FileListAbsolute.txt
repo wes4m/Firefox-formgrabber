@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Logs\bin\Debug\Logs.exe
+C:\Users\HP\Desktop\Logs\bin\Debug\Logs.pdb
+C:\Users\HP\Desktop\Logs\obj\Debug\Logs.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Logs\obj\Debug\Logs.exe
+C:\Users\HP\Desktop\Logs\obj\Debug\Logs.pdb
+C:\unC0der\Sources - Projects\FormGrabber\Logs\obj\Debug\Logs.exe
+C:\unC0der\Sources - Projects\FormGrabber\Logs\obj\Debug\Logs.pdb
+C:\unC0der\Sources - Projects\FormGrabber\Logs\bin\Debug\Logs.exe
+C:\unC0der\Sources - Projects\FormGrabber\Logs\bin\Debug\Logs.pdb
+C:\unC0der\Sources - Projects\FormGrabber\Logs\obj\Debug\Logs.csprojResolveAssemblyReference.cache
+C:\unC0der\Sources - Projects\FormGrabber\Logs\obj\Debug\Logs.Properties.Resources.resources
+C:\unC0der\Sources - Projects\FormGrabber\Logs\obj\Debug\Logs.csproj.GenerateResource.Cache
